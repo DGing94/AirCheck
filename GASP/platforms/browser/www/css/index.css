@@ -125,12 +125,15 @@ h1 {
 	margin-top: 50px;
 }
 
+h3 {
+	margin-top: 50px;
+}
+
 #painRange {
 	width: 90%;
 	height: 25px;
 	border-width-top: 25px;
 	border-color: #66FF66;
-	margin-top: 50px;
 }
 
 #symptomSelect {
